@@ -1,3 +1,6 @@
+Open QMK MSYS and cd to the root of this repo
+```qmk compile -c -kb bastardkb/dilemma/3x5_2/splinky -km taipo```
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
